@@ -1,2 +1,3 @@
-# react-stripe
-react payment integration with stripe
+# Getting Started
+## Installation
+``` yarn add stripe```
